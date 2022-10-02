@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray.deps.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/bin/Debug/net5.0/SortAscDscArray.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/refint/SortAscDscArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/SortAscDscArray.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/SortAscDscArray/obj/Debug/net5.0/ref/SortAscDscArray.dll

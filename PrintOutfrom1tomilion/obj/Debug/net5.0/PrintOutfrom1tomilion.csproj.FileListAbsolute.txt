@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion.deps.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/bin/Debug/net5.0/PrintOutfrom1tomilion.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/refint/PrintOutfrom1tomilion.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/PrintOutfrom1tomilion.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutfrom1tomilion/obj/Debug/net5.0/ref/PrintOutfrom1tomilion.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrintOutfrom1tomilion/1.0.0": {
+        "runtime": {
+          "PrintOutfrom1tomilion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrintOutfrom1tomilion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

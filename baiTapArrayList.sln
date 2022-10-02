@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintOutfrom1tomilion", "PrintOutfrom1tomilion\PrintOutfrom1tomilion.csproj", "{A63ED87B-88B6-4D14-AA32-4364DAA9C9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheSameNumber", "FindTheSameNumber\FindTheSameNumber.csproj", "{ECD59FCB-D5A2-4321-A6D0-D70334F572B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAscDscArray", "SortAscDscArray\SortAscDscArray.csproj", "{1EA3D8FB-8035-4BEE-9EDE-48A745E806BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63ED87B-88B6-4D14-AA32-4364DAA9C9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63ED87B-88B6-4D14-AA32-4364DAA9C9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63ED87B-88B6-4D14-AA32-4364DAA9C9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63ED87B-88B6-4D14-AA32-4364DAA9C9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD59FCB-D5A2-4321-A6D0-D70334F572B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD59FCB-D5A2-4321-A6D0-D70334F572B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD59FCB-D5A2-4321-A6D0-D70334F572B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD59FCB-D5A2-4321-A6D0-D70334F572B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA3D8FB-8035-4BEE-9EDE-48A745E806BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA3D8FB-8035-4BEE-9EDE-48A745E806BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA3D8FB-8035-4BEE-9EDE-48A745E806BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA3D8FB-8035-4BEE-9EDE-48A745E806BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

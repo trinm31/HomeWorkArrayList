@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber.deps.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/bin/Debug/net5.0/FindTheSameNumber.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/refint/FindTheSameNumber.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/FindTheSameNumber.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/FindTheSameNumber/obj/Debug/net5.0/ref/FindTheSameNumber.dll
