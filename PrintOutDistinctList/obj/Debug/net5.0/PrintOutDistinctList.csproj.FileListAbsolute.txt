@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList.deps.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/bin/Debug/net5.0/PrintOutDistinctList.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/refint/PrintOutDistinctList.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/PrintOutDistinctList.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/PrintOutDistinctList/obj/Debug/net5.0/ref/PrintOutDistinctList.dll

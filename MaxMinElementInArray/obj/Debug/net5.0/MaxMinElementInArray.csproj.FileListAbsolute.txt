@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray.deps.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray.runtimeconfig.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/bin/Debug/net5.0/MaxMinElementInArray.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/refint/MaxMinElementInArray.dll
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.pdb
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/MaxMinElementInArray.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/baiTapArrayList/MaxMinElementInArray/obj/Debug/net5.0/ref/MaxMinElementInArray.dll
